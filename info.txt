@@ -1,0 +1,7 @@
+npm init --> package Json
+npm install cypress --save-dev
+npm install -g npx
+npx cypress install --force
+node_modules\.bin\cypress open
+npx cypress open
+npm install -D cypress-xpath
